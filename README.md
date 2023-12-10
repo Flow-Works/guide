@@ -1,1 +1,5 @@
-# guide
+# 🎨 Creating an application
+
+```
+// Some code
+```
